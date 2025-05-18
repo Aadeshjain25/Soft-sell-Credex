@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -123,3 +124,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Aadesh Jain - [aadeshjain200@gmail.com](mailto:aadeshjain200@gmail.com)
 
 Project Link: [https://github.com/Aadeshjain25/Soft-sell-Credex](https://github.com/Aadeshjain25/Soft-sell-Credex)
+=======
+# Soft-sell-Credex
+>>>>>>> a7f8c259e7b5c233da155f546947b66ace0f831c
