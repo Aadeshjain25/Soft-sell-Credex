@@ -121,7 +121,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Aadesh Jain - [aadeshjain200@gmail.com](mailto:aadeshjain200@gmail.com)
+Aadesh Jain - [aadeshjain2004@gmail.com](mailto:aadeshjain2004@gmail.com)
 
 Project Link: [https://github.com/Aadeshjain25/Soft-sell-Credex](https://github.com/Aadeshjain25/Soft-sell-Credex)
 =======
